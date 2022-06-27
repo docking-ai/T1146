@@ -1,0 +1,5 @@
+Can't open /data/private/DAT//4q68_.dat
+# Job: test
+# Query: 4q68
+# No:  Chain   Z    rmsd lali nres  %id PDB  Description
+
